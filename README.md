@@ -1,2 +1,15 @@
-# react_learn
-build by umi
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
